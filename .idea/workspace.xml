@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d10af14e-add0-4436-9ca4-328fa107320c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tLndoFRDGhCcdr0raOHFzxUHIQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/buy_burger_house" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\IT-RUN\Практика\burger house\buy_burger_house" />
+      <recent name="C:\Users\User\Desktop\IT-RUN\Практика\burger house\menu_closed\image" />
+      <recent name="C:\Users\User\Desktop\IT-RUN\Практика\burger house\Partnership\image" />
+      <recent name="C:\Users\User\Desktop\IT-RUN\Практика\burger house\bloc_4\image" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\IT-RUN\Практика\burger house\buy_burger_house\image" />
+      <recent name="C:\Users\User\Desktop\IT-RUN\Практика\burger house\Landing Page" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d10af14e-add0-4436-9ca4-328fa107320c" name="Default Changelist" comment="" />
+      <created>1622557326883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622557326883</updated>
+      <workItem from="1622557328805" duration="34336000" />
+      <workItem from="1622829004343" duration="6038000" />
+      <workItem from="1622981867481" duration="693000" />
+      <workItem from="1623161271207" duration="3204000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622643232972">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1622643232972" />
+    <state x="492" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1622829991565">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="492" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1622829991565" />
+    <state x="548" y="159" key="FileChooserDialogImpl" timestamp="1622983108228">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="548" y="159" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1622983108228" />
+  </component>
+</project>

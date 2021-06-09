@@ -1,0 +1,426 @@
+@font-face {
+    font-family: 'BebasNeueCyrillic';
+    src: url('../fonts/ofont.ru_Bebas Neue.eot');
+    src: local('☺'), url('../fonts/ofont.ru_Bebas Neue.woff') format('woff'), url('../fonts/ofont.ru_Bebas Neue.ttf') format('truetype'), url('../fonts/ofont.ru_Bebas Neue.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'BebasNeueCyrillic', sans-serif;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+section .burger2 {
+    display: flex;
+    justify-content: space-between;
+    background: black;
+    padding: 15px 0 20px;
+}
+
+section .burger2 .image-burger2 {
+    padding-left: 25px;
+    align-items: center;
+}
+
+section .burger2 .image-burger2 img {
+    align-items: center;
+}
+
+section .burger2 .list2 ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+section .burger2 .list2 li {
+    list-style: none;
+}
+
+section .burger2 .list2 a {
+    padding-top: 30px;
+    padding-right: 22px;
+    color: white;
+    display: flex;
+    padding-left: 20px;
+    font-size: 45px;
+    text-decoration: none;
+}
+
+section .burger2 .list2 a:hover {
+    color: orange;
+}
+
+section .burger2 .icons2 {
+    padding-right: 25px;
+    display: flex;
+    align-items: center;
+}
+
+section .burger2 .icons2 .facebook {
+    padding-top: 8px;
+    padding-left: 10px;
+}
+
+section .burger2 .icons2 .twitter {
+    padding-top: 12px;
+    padding-left: 10px;
+}
+
+section .burger2 .icons2 .inst {
+    padding-top: 10px;
+    padding-left: 90px;
+}
+
+.tomato {
+    background: url("tomato.png");
+}
+
+.tomato .salat2 {
+    text-align: center;
+    padding-top: 418px;
+    color: white;
+    padding-bottom: 222px;
+}
+
+.tomato .salat2 h2 {
+    font-size: 96px;
+
+}
+
+.met {
+    background: url("met.png");
+}
+
+.met .text2 {
+    text-align: center;
+    padding-top: 173px;
+    padding-bottom: 65px;
+    color: white;
+}
+
+.met .text2 h2 {
+    font-size: 100px;
+}
+
+.classic {
+    background: black;
+}
+
+.classic .row {
+    align-items: center;
+}
+
+.classic .row .col-lg-6 h2 {
+    font-size: 100px;
+    color: white;
+}
+
+.classic .row .col-lg-6 h3 {
+    font-size: 64px;
+    color: white;
+}
+
+.classic .row .col-lg-6 h3 span {
+    color: blue;
+}
+
+.classic .row .col-lg-6 p {
+    font-size: 35px;
+    color: white;
+}
+
+.salats {
+    background: url("salatnah.png");
+}
+
+.salats .mashroom {
+    padding-top: 161px;
+    padding-bottom: 122px;
+}
+
+.salats .mashroom h2 {
+    text-align: center;
+    font-size: 100px;
+    color: white;
+}
+
+.breads {
+    background: black;
+}
+
+.breads .row {
+    align-items: center;
+}
+
+.breads .row .col-lg-6 img {
+    padding-right: 100px;
+}
+
+.breads .row .col-lg-6 h2 {
+    font-size: 100px;
+    color: white;
+}
+
+.breads .row .col-lg-6 h3 {
+    font-size: 64px;
+    color: white;
+}
+
+.breads .row .col-lg-6 h3 span {
+    color: blue;
+}
+
+.fried {
+    background: url("potatoe.png");
+}
+
+.fried .potato2 {
+    text-align: center;
+    padding-top: 197px;
+    padding-bottom: 80px;
+}
+
+.fried .potato2 h2 {
+    font-size: 100px;
+    color: white;
+}
+
+.strips {
+    background: black;
+}
+
+.strips .row {
+    align-items: center;
+}
+
+.strips .row .col-lg-6 h2 {
+    font-size: 100px;
+    color: white;
+}
+
+.strips .row .col-lg-6 h3 {
+    font-size: 60px;
+    color: white;
+}
+
+.soup2 {
+    background: url("soup.png");
+}
+
+.soup2 .soup22 {
+    padding: 140px;
+}
+
+.soup2 .soup22 h2 {
+    text-align: center;
+    font-size: 100px;
+    color: white;
+}
+
+.noodles {
+    background: black;
+}
+
+.noodles .row {
+    align-items: center;
+}
+
+.noodles .row .col-lg-6 h2 {
+    font-size: 100px;
+    color: white;
+}
+
+.noodles .row .col-lg-6 h3 {
+    font-size: 64px;
+    color: white;
+}
+
+.lentil {
+    background: black;
+}
+
+.lentil .row {
+    align-items: center;
+}
+
+.lentil .row .col-lg-6 h2 {
+    font-size: 70px;
+    color: white;
+}
+
+.lentil .row .col-lg-6 h3 {
+    font-size: 64px;
+    color: white;
+}
+
+.lentil .row .col-lg-6 img {
+    padding-right: 190px;
+}
+
+.pepperoni2 {
+    background: url("pepperoni.png");
+}
+
+.pepperoni2 .pep2 {
+    padding: 135px;
+}
+
+.pepperoni2 .pep2 h2 {
+    text-align: center;
+    font-size: 100px;
+    color: white;
+}
+
+.pepperoni222 {
+    background: black;
+}
+
+.pepperoni222 .row {
+    align-items: center;
+}
+
+.pepperoni222 .row .col-lg-6 h2 {
+    font-size: 100px;
+    color: white;
+}
+
+.pepperoni222 .row .col-lg-6 h3 {
+    font-size: 64px;
+    color: white;
+}
+
+.fishandbeef {
+    background: url("FISHANDBEEF.png");
+}
+
+.fishandbeef .beef {
+    padding: 135px;
+    text-align: center;
+}
+
+.fishandbeef .beef h2 {
+    font-size: 100px;
+    color: white;
+}
+
+.trout2 {
+    background: black;
+}
+
+.trout2 .row {
+    align-items: center;
+}
+
+.trout2 .row .col-lg-6 h2 {
+    font-size: 70px;
+    color: white;
+}
+
+.trout2 .row .col-lg-6 h3 {
+    font-size: 64px;
+    color: white;
+}
+
+.ribai {
+    background: black;
+}
+
+.ribai .row {
+    align-items: center;
+}
+
+.ribai .row .col-lg-6 .local {
+    display: flex;
+}
+
+.ribai .row .col-lg-6 img {
+    padding-right: 50px;
+}
+
+.ribai .row .col-lg-6 .local .text21 {
+    padding-top: 30px;
+}
+
+.ribai .row .col-lg-6 .local .text21 h4 {
+    align-items: center;
+    color: white;
+    font-size: 35px;
+}
+
+.ribai .row .col-lg-6 h2 {
+    font-size: 80px;
+    color: white;
+}
+
+.ribai .row .col-lg-6 h3 {
+    font-size: 64px;
+    color: white;
+}
+
+.garnir {
+    background: url("garnir.png");
+}
+
+.garnir .garnirishe {
+    padding: 100px;
+}
+
+.garnir .garnirishe h2 {
+    font-size: 100px;
+    color: white;
+}
+
+footer {
+    background: black;
+}
+
+footer .row {
+    padding-top: 80px;
+    padding-bottom: 30px;
+    /*align-items: center;*/
+}
+
+footer .row .col-lg-6 h2 {
+    font-size: 50px;
+    color: white;
+    padding-top: 70px;
+}
+
+footer .row .col-lg-6 h3 {
+    font-size: 35px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
